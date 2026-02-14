@@ -1,0 +1,14 @@
+# Ignore dataset
+data/
+
+# Ignore trained models
+*.keras
+*.h5
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+env/
+emotion_tf/
